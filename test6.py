@@ -1,4 +1,4 @@
-shopping_list = ["风之旅人","黑神话：悟空"]#列表
+shopping_list = ["风之旅人","黑神话：悟空"]#列表（list）(可变)，一种数据结构
 shopping_list.append("最终幻想VII")
 shopping_list.append("GRIS")
 shopping_list.remove("风之旅人")
