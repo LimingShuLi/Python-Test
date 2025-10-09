@@ -18,6 +18,7 @@ print((-b - math.sqrt(alpha) )/2*a)
 print((-b + (alpha)**(1/2) )/2*a)
 
 print(len(" l!\n"))# len函数可以返还字符串的长度
+# 注意空格也算一个长度，\n只算一个长度
 print("6 l!\n"[0])# 字符索引从零开始
 print("6 l!\n"[len(" l!\n") -1])
 # type函数可以返还该数据的类型，比如str即为字符串
