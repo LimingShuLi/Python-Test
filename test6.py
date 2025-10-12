@@ -1,4 +1,4 @@
-shopping_list = ["风之旅人","黑神话：悟空"]#列表（list）(可变)，一种数据结构
+shopping_list = ["风之旅人","黑神话：悟空",11]#列表（list）(可变)，一种数据结构
 shopping_list.append("最终幻想VII")
 shopping_list.append("GRIS")
 shopping_list.remove("风之旅人")
@@ -12,7 +12,7 @@ print(shopping_list[1])
 price = [268,10,11]
 max_price = max(price)
 min_price = min(price)
-sortef_price = sorted(price)
+sorted_price = sorted(price)
 print(max_price)
 print(min_price)
-print(sortef_price)
+print(sorted_price)
