@@ -7,7 +7,7 @@ from scipy.interpolate import make_interp_spline
 matplotlib.rcParams['font.sans-serif'] = ['SimHei', 'Arial Unicode MS']
 matplotlib.rcParams['axes.unicode_minus'] = False
 
-# ==================== 数据 ====================
+# ==================== 数据 =====================
 f1 = np.array([0.7, 0.9, 1.1, 1.3, 1.477, 1.7, 1.9, 2.3, 3.0])
 f2 = np.array([0.5, 0.8, 1.1, 1.3, 1.523, 1.8, 2.1, 2.5, 3.0])
 U0_100 = np.array([0.167, 0.257, 0.409, 0.622, 0.804, 0.667, 0.512, 0.332, 0.205])
